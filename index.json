@@ -1,7 +1,7 @@
 {
   "source": {
     "name": "Pyes test remote catalog",
-    "version": "1.0",
+    "version": "1.1",
     "homepage": "http://github.com/simzes/pyes-test-catalog",
     "license": "MIT",
     "author": "simzes",
@@ -14,14 +14,14 @@
   "entries": [
     {
       "path": "elephant",
-      "title": "Elephant Blink",
+      "title": "Elephant Blink v1.1",
       "icon": "elephant.jpg",
       "description": "elephant.md",
       "binary": "elephant.hex"
     },
     {
       "path": "donkey",
-      "title": "Donkey Blink",
+      "title": "Donkey Blink v1.1",
       "icon": "donkey.jpg",
       "description": "donkey.md",
       "binary": "donkey.hex"
